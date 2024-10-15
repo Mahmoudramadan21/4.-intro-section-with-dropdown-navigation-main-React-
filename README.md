@@ -15,7 +15,7 @@ This project is a responsive webpage featuring a fully functional navigation bar
 - **Clean and Modular Code:** Separate components for Navbar, SideMenu, Features, Company, and Hero, all designed for reusability and scalability.
 
 ## Demo
-You can view the live demo of the project [here](#).
+You can view the live demo of the project [https://imaginative-douhua-dd06f6.netlify.app/](#).
 
 ## Technologies Used
 - **React:** For building the components and managing the state.
