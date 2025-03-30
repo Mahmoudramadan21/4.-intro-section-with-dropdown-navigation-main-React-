@@ -27,7 +27,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/navbar-hero-section.git
+   git clone https://github.com/Mahmoudramadan21/4.-intro-section-with-dropdown-navigation-main-React-.git
 
    
 2. Navigate to the project directory::
